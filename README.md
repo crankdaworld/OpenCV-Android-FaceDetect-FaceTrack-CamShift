@@ -11,6 +11,7 @@ The code contains comments, wherever necessary.
 Important: Make sure, you are importing and adding OpenCV library , while building this application.
 
 Detailed Tutorial at http://imranakthar.com/android-opencv-tutorial-3-face-tracking-using-camshift-histogram/
+                     https://www.youtube.com/watch?v=CREh0BRvpjU
 
 imran [AT] imranakthar [DOT] com
 
